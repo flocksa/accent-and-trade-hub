@@ -14,7 +14,6 @@ const mimeTypes = {
   '.jpg': 'image/jpg',
 }
 
-
 const server = http.createServer((req, res) => {
   const parsedUrl = url.parse(req.url);
   const filepath = path.join(__dirname, '..', 'public', parsedUrl.pathname);
