@@ -2,8 +2,8 @@
 
 A minimal Node.js application.
 
-hi I'm babu
-this is an accent and skin hub made to make trading easier for the game Flight Rising. hi
+hi we are flocksa and wibo
+this is an accent and skin hub made to make trading easier for the game Flight Rising.
 
 ## Run
 
